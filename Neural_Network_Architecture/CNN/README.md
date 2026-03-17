@@ -1,19 +1,35 @@
-# CNN for CIFAR-10 Classification
+# CNN on CIFAR-10 (Training + Validation)
 
-This project implements a Convolutional Neural Network (CNN) using PyTorch to classify images from the CIFAR-10 dataset.
+## Project Overview
+This project implements a Convolutional Neural Network (CNN) using PyTorch and includes both training and validation steps.
 
-Dataset:
-CIFAR-10 (automatically downloaded using torchvision)
+## Dataset
+CIFAR-10 dataset (loaded using torchvision)
 
-Architecture:
-Conv → ReLU → MaxPool
-Conv → ReLU → MaxPool
-Conv → ReLU → MaxPool
-Fully Connected Layer
+## Workflow
+
+1. Data preprocessing using transforms
+2. Training CNN model
+3. Evaluating accuracy on test data
+4. Adding validation loss tracking
+
+## Architecture
+
+Conv → ReLU → MaxPool  
+Conv → ReLU → MaxPool  
+Conv → ReLU → MaxPool  
+Fully Connected Layer  
 Output Layer (10 classes)
 
-Tools:
-Python
-PyTorch
-Torchvision
-Jupyter Notebook
+## Features Added (Day 5)
+
+- Training loop
+- Validation loop
+- Loss tracking (Train vs Validation)
+
+## Tools Used
+
+- Python
+- PyTorch
+- Torchvision
+- Jupyter Notebook
