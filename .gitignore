@@ -213,3 +213,4 @@ data/
 *.pth
 __pycache__/
 *.pyc
+*.csv
