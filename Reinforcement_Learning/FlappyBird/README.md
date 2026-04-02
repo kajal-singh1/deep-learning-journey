@@ -1,6 +1,6 @@
 # 🐦 Flappy Bird AI using Deep Q-Learning (DQN)
 
-This project implements a Deep Q-Network (DQN) agent to play the Flappy Bird game using reinforcement learning. The agent learns to maximize rewards by interacting with the environment.
+This project implements a Deep Q-Network (DQN) agent to play the Flappy Bird game using reinforcement learning. The agent learns to maximize rewards by interacting with the environment.At maximax 1 millon to 2 millon episodes need to be trained for better working of the Flappy Bird game.
 
 ---
 
