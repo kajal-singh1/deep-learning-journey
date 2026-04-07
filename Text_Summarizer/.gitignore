@@ -1,1 +1,19 @@
-samsum-*.csv
+# Virtual Environment
+t5env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Model Files
+saved_summary_model/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
