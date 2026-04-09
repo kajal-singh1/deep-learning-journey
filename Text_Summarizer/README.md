@@ -50,7 +50,7 @@ It summarizes long dialogues into short, meaningful summaries using NLP.
 
 ### 1. Clone Repository
 ```
-git clone <your-repo-url>
+git clone https://github.com/kajal-singh1/deep-learning-journey/tree/main/Text_Summarizer
 cd <repo-name>
 ```
 
