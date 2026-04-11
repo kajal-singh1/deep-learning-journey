@@ -1,0 +1,52 @@
+# Ignore Python cache files
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Ignore environment files
+
+.env
+venv/
+env/
+
+# Ignore system files
+
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+
+*.log
+
+# Ignore large data files (your PDFs, datasets)
+
+data/
+
+# Ignore vector database (ChromaDB storage)
+
+vector_store/
+
+# Ignore temporary files
+
+*.tmp
+*.temp
+
+# Ignore model files (if any)
+
+*.bin
+*.pt
+*.onnx
+
+# Ignore VS Code settings
+
+.vscode/
+
+# Ignore Google Colab files
+
+*.colab
