@@ -242,4 +242,4 @@ generate_output("What is RAG?", rag_retriever, llm)
 
 ## ⭐ If you found this useful
 
-Give it a ⭐ on GitHub 🚀
+Give it a ⭐ on GitHub 
